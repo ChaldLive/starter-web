@@ -1,0 +1,8 @@
+* Noter til git kursus, der er vigtige lærings begreber.
+
+1.  Working directory, staging area, git repository, remote repository
+
+2. bash commands and git commands are different, yet semilar.
+
+3. Git aliases, to ease up your world a little. example for an alias;
+    

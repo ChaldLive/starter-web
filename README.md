@@ -17,3 +17,6 @@ Adding some text to se a change
 
 ## Deployment
 This is a simple web project deployment can be on any web server or even a local file system
+
+### Copyright   
+Adding copyright to simple.html file during git training course

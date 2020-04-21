@@ -4,7 +4,7 @@ This
 
 This repository is for showing how Git and GitHub work together
 
-Adding a line for rebasing sample.
+Adding a line for rebasing sample. Following mora changes from my feature branch too
 
 ## Introduction
 

@@ -4,6 +4,8 @@ This
 
 This repository is for showing how Git and GitHub work together
 
+Adding a line for rebasing sample.
+
 ## Introduction
 
 This is an example of showing different parts of the git repository, and various commands using a web projectgit

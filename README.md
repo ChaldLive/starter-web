@@ -8,7 +8,7 @@ Adding a line for rebasing sample. Following mora changes from my feature branch
 
 ## Introduction
 
-This is an example of showing different parts of the git repository, and various commands using a web projectgit
+This is an example of doing a emergency fix after doing a stash command 
 
 ## Purpose
 
@@ -21,4 +21,4 @@ Fork this repos and then issue and pull requests for review
 This is a simple web project deployment can be on any web server or even a local file system
 
 ### Copyright   
-Adding copyright to simple.html all rights reserved
+Adding copyright to simple.html all rights reservedf

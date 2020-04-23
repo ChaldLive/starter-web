@@ -21,4 +21,4 @@ Fork this repos and then issue and pull requests for review
 This is a simple web project deployment can be on any web server or even a local file system
 
 ### Copyright   
-Adding copyright to simple.html file during git training courseg
+Adding copyright to simple.html all rights reserved

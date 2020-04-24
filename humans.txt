@@ -8,9 +8,10 @@
 # THANKS
 
     Thanks to all my students, and everything following it.
-    Please leave a review if we like this course
+    Please leave a review if we like this coursegf
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git knowledge center
